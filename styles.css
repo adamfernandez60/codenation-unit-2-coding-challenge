@@ -1,7 +1,18 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background: linear-gradient(#33fcff, #e51fff);
     text-align: center;
 }
 
 /* Apply CSS styles to three of your HTML elements to make the page visually appealing. */
+
+img{border-radius: 70%;
+   border: 20px solid #ff8f8f;
+  border-style: double;}
+
+p{background: linear-gradient(#99fff3, #f0f3ff);
+  border: 20px solid #ff2ed2;
+  border-style: groove;}
+
+
+
